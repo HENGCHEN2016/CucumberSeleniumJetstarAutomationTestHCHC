@@ -33,6 +33,8 @@ Scenario: Title1 (for Behaviour 1)
   
   ...
  
+I am going to show this JetStar booking ticket automation test demo:
 
+https://github.com/HENGCHEN2016/CucumberSeleniumJetstarAutomationTestHCHC/blob/master/gif/Jetstar.com_automation_test_demo.gif
  
    
